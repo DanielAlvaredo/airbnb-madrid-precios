@@ -1,0 +1,709 @@
+﻿neighbourhood_cleansed;room_type;accommodates;bedrooms;n_alojamientos;precio_min;precio_recomendado;precio_max
+Abrantes;Private room;1;1,0;8;24,0;42,0;73,0
+Abrantes;Private room;2;1,0;10;31,0;54,0;94,0
+Acacias;Entire home/apt;2;1,0;28;76,0;132,0;228,0
+Acacias;Entire home/apt;3;1,0;8;72,0;125,0;216,0
+Acacias;Entire home/apt;4;1,0;23;98,0;170,0;294,0
+Acacias;Entire home/apt;4;2,0;11;111,0;194,0;334,0
+Acacias;Private room;1;1,0;30;28,0;48,0;83,0
+Acacias;Private room;2;1,0;13;48,0;83,0;143,0
+Adelfas;Entire home/apt;2;0,0;6;76,0;132,0;228,0
+Adelfas;Entire home/apt;2;1,0;18;75,0;131,0;226,0
+Adelfas;Entire home/apt;4;0,0;20;92,0;160,0;277,0
+Adelfas;Entire home/apt;4;1,0;12;106,0;184,0;317,0
+Adelfas;Entire home/apt;6;3,0;6;139,0;242,0;417,0
+Adelfas;Private room;1;1,0;10;25,0;44,0;76,0
+Adelfas;Private room;2;1,0;11;53,0;92,0;160,0
+Aguilas;Private room;1;1,0;14;33,0;57,0;99,0
+Aguilas;Private room;2;1,0;15;30,0;53,0;91,0
+Alameda de Osuna;Private room;2;1,0;14;56,0;97,0;167,0
+Almagro;Entire home/apt;2;0,0;8;85,0;148,0;256,0
+Almagro;Entire home/apt;2;1,0;40;90,0;157,0;271,0
+Almagro;Entire home/apt;3;1,0;9;86,0;150,0;259,0
+Almagro;Entire home/apt;4;1,0;8;114,0;198,0;341,0
+Almagro;Entire home/apt;4;2,0;24;114,0;199,0;344,0
+Almagro;Entire home/apt;5;2,0;5;131,0;229,0;394,0
+Almagro;Entire home/apt;6;3,0;15;145,0;252,0;434,0
+Almagro;Private room;1;1,0;20;25,0;43,0;75,0
+Almagro;Private room;2;1,0;19;95,0;166,0;286,0
+Almenara;Entire home/apt;2;0,0;6;67,0;117,0;202,0
+Almenara;Entire home/apt;2;1,0;27;67,0;116,0;200,0
+Almenara;Entire home/apt;3;1,0;6;66,0;116,0;199,0
+Almenara;Entire home/apt;3;2,0;6;62,0;108,0;186,0
+Almenara;Entire home/apt;4;0,0;11;87,0;150,0;260,0
+Almenara;Entire home/apt;4;1,0;24;94,0;164,0;282,0
+Almenara;Entire home/apt;4;2,0;16;99,0;172,0;297,0
+Almenara;Entire home/apt;6;2,0;11;122,0;211,0;365,0
+Almenara;Entire home/apt;6;3,0;10;130,0;225,0;389,0
+Almenara;Private room;1;1,0;12;31,0;54,0;93,0
+Almenara;Private room;2;1,0;12;46,0;81,0;140,0
+Almenara;Private room;4;0,0;5;61,0;107,0;184,0
+Almendrales;Entire home/apt;2;0,0;8;48,0;84,0;144,0
+Almendrales;Entire home/apt;2;1,0;26;48,0;84,0;144,0
+Almendrales;Entire home/apt;3;1,0;5;61,0;106,0;183,0
+Almendrales;Entire home/apt;4;1,0;15;70,0;122,0;210,0
+Almendrales;Entire home/apt;6;2,0;6;92,0;160,0;275,0
+Almendrales;Private room;2;1,0;11;38,0;67,0;115,0
+Aluche;Entire home/apt;4;1,0;5;65,0;113,0;194,0
+Aluche;Private room;1;1,0;16;26,0;45,0;78,0
+Amposta;Private room;2;1,0;8;28,0;49,0;85,0
+Apostol Santiago;Private room;1;1,0;12;26,0;45,0;77,0
+Apostol Santiago;Private room;2;1,0;9;29,0;51,0;88,0
+Arapiles;Entire home/apt;2;0,0;10;66,0;115,0;199,0
+Arapiles;Entire home/apt;2;1,0;32;64,0;112,0;192,0
+Arapiles;Entire home/apt;3;1,0;8;74,0;129,0;223,0
+Arapiles;Entire home/apt;4;1,0;17;122,0;212,0;366,0
+Arapiles;Entire home/apt;4;2,0;11;129,0;224,0;386,0
+Arapiles;Private room;1;1,0;20;34,0;59,0;101,0
+Arapiles;Private room;2;1,0;24;56,0;98,0;169,0
+Aravaca;Entire home/apt;2;1,0;5;62,0;108,0;186,0
+Aravaca;Entire home/apt;4;1,0;13;72,0;125,0;215,0
+Arcos;Private room;1;1,0;5;27,0;47,0;82,0
+Arcos;Private room;2;1,0;26;47,0;83,0;142,0
+Argüelles;Entire home/apt;2;0,0;6;50,0;87,0;150,0
+Argüelles;Entire home/apt;2;1,0;25;75,0;131,0;226,0
+Argüelles;Entire home/apt;3;1,0;11;78,0;135,0;233,0
+Argüelles;Entire home/apt;4;1,0;19;107,0;187,0;322,0
+Argüelles;Entire home/apt;4;2,0;28;132,0;229,0;395,0
+Argüelles;Entire home/apt;5;2,0;5;133,0;231,0;398,0
+Argüelles;Entire home/apt;5;3,0;5;139,0;242,0;418,0
+Argüelles;Entire home/apt;6;2,0;5;154,0;267,0;461,0
+Argüelles;Entire home/apt;6;3,0;9;189,0;328,0;567,0
+Argüelles;Private room;1;1,0;47;24,0;41,0;71,0
+Argüelles;Private room;2;1,0;35;79,0;138,0;237,0
+Atocha;Entire home/apt;4;0,0;12;108,0;188,0;324,0
+Atocha;Entire home/apt;4;1,0;15;114,0;199,0;343,0
+Atocha;Entire home/apt;6;2,0;6;140,0;244,0;421,0
+Bellas Vistas;Entire home/apt;2;0,0;12;73,0;126,0;218,0
+Bellas Vistas;Entire home/apt;2;1,0;29;65,0;113,0;195,0
+Bellas Vistas;Entire home/apt;3;0,0;5;73,0;127,0;219,0
+Bellas Vistas;Entire home/apt;3;1,0;6;66,0;114,0;197,0
+Bellas Vistas;Entire home/apt;4;0,0;11;115,0;199,0;344,0
+Bellas Vistas;Entire home/apt;4;1,0;21;100,0;174,0;301,0
+Bellas Vistas;Entire home/apt;4;2,0;16;85,0;148,0;255,0
+Bellas Vistas;Entire home/apt;5;2,0;5;81,0;141,0;244,0
+Bellas Vistas;Entire home/apt;6;2,0;11;105,0;183,0;316,0
+Bellas Vistas;Entire home/apt;8;3,0;6;172,0;298,0;515,0
+Bellas Vistas;Private room;1;1,0;17;39,0;68,0;118,0
+Bellas Vistas;Private room;2;1,0;28;66,0;115,0;198,0
+Berruguete;Entire home/apt;2;0,0;10;89,0;154,0;266,0
+Berruguete;Entire home/apt;2;1,0;45;88,0;153,0;265,0
+Berruguete;Entire home/apt;3;1,0;5;86,0;149,0;257,0
+Berruguete;Entire home/apt;3;2,0;5;87,0;152,0;262,0
+Berruguete;Entire home/apt;4;1,0;27;68,0;119,0;205,0
+Berruguete;Entire home/apt;4;2,0;12;107,0;186,0;322,0
+Berruguete;Entire home/apt;6;3,0;5;110,0;191,0;329,0
+Berruguete;Private room;1;1,0;21;26,0;46,0;79,0
+Berruguete;Private room;2;1,0;28;33,0;57,0;98,0
+Buenavista;Entire home/apt;4;1,0;6;75,0;130,0;225,0
+Buenavista;Entire home/apt;6;2,0;5;62,0;108,0;186,0
+Buenavista;Private room;1;1,0;11;25,0;44,0;76,0
+Buenavista;Private room;2;1,0;10;52,0;90,0;155,0
+Butarque;Entire home/apt;4;1,0;5;65,0;114,0;196,0
+Butarque;Private room;2;1,0;10;34,0;60,0;103,0
+Campamento;Private room;1;1,0;6;19,0;34,0;58,0
+Canillas;Entire home/apt;2;0,0;5;87,0;152,0;262,0
+Canillas;Entire home/apt;2;1,0;9;80,0;139,0;239,0
+Canillas;Entire home/apt;4;1,0;10;86,0;149,0;257,0
+Canillas;Entire home/apt;4;2,0;7;109,0;189,0;326,0
+Canillas;Private room;1;1,0;24;30,0;52,0;89,0
+Canillas;Private room;2;1,0;36;53,0;93,0;160,0
+Canillejas;Entire home/apt;2;1,0;11;56,0;97,0;167,0
+Canillejas;Entire home/apt;4;1,0;7;75,0;131,0;226,0
+Canillejas;Private room;1;1,0;15;32,0;56,0;97,0
+Canillejas;Private room;2;1,0;35;48,0;84,0;144,0
+Casa de Campo;Entire home/apt;2;1,0;9;63,0;109,0;188,0
+Casa de Campo;Entire home/apt;4;2,0;5;97,0;169,0;292,0
+Casa de Campo;Private room;1;1,0;25;27,0;47,0;81,0
+Casa de Campo;Private room;2;1,0;18;100,0;175,0;301,0
+Casco Histórico de Barajas;Entire home/apt;2;1,0;6;74,0;128,0;221,0
+Casco Histórico de Barajas;Entire home/apt;4;1,0;9;113,0;196,0;339,0
+Casco Histórico de Barajas;Private room;2;1,0;16;110,0;192,0;331,0
+Casco Histórico de Vallecas;Entire home/apt;2;0,0;7;67,0;116,0;200,0
+Casco Histórico de Vallecas;Entire home/apt;2;1,0;9;76,0;133,0;229,0
+Casco Histórico de Vallecas;Entire home/apt;3;1,0;7;73,0;128,0;220,0
+Casco Histórico de Vallecas;Entire home/apt;4;1,0;16;64,0;111,0;191,0
+Casco Histórico de Vallecas;Private room;2;1,0;10;31,0;53,0;92,0
+Casco Histórico de Vicálvaro;Entire home/apt;4;2,0;5;59,0;103,0;177,0
+Casco Histórico de Vicálvaro;Private room;1;1,0;6;32,0;55,0;96,0
+Casco Histórico de Vicálvaro;Private room;2;1,0;14;30,0;51,0;89,0
+Castellana;Entire home/apt;2;1,0;15;111,0;193,0;333,0
+Castellana;Entire home/apt;3;1,0;11;98,0;171,0;295,0
+Castellana;Entire home/apt;3;2,0;10;97,0;168,0;290,0
+Castellana;Entire home/apt;4;1,0;13;108,0;188,0;325,0
+Castellana;Entire home/apt;4;2,0;24;111,0;192,0;332,0
+Castellana;Entire home/apt;6;2,0;6;133,0;232,0;400,0
+Castellana;Entire home/apt;6;3,0;15;139,0;241,0;416,0
+Castellana;Private room;2;1,0;6;56,0;97,0;167,0
+Castilla;Entire home/apt;2;1,0;8;68,0;119,0;205,0
+Castilla;Entire home/apt;4;1,0;11;99,0;172,0;296,0
+Castilla;Entire home/apt;4;2,0;13;138,0;240,0;414,0
+Castilla;Private room;1;1,0;10;32,0;56,0;97,0
+Castilla;Private room;2;1,0;8;68,0;118,0;204,0
+Castillejos;Entire home/apt;2;0,0;10;100,0;174,0;300,0
+Castillejos;Entire home/apt;2;1,0;63;97,0;170,0;293,0
+Castillejos;Entire home/apt;3;1,0;18;88,0;153,0;263,0
+Castillejos;Entire home/apt;3;2,0;11;90,0;156,0;269,0
+Castillejos;Entire home/apt;4;0,0;6;91,0;158,0;273,0
+Castillejos;Entire home/apt;4;1,0;25;98,0;171,0;295,0
+Castillejos;Entire home/apt;4;2,0;21;110,0;191,0;330,0
+Castillejos;Entire home/apt;6;3,0;7;124,0;215,0;371,0
+Castillejos;Private room;1;1,0;38;21,0;36,0;63,0
+Castillejos;Private room;2;1,0;12;46,0;79,0;137,0
+Chopera;Entire home/apt;2;1,0;11;93,0;162,0;280,0
+Chopera;Entire home/apt;3;1,0;5;84,0;146,0;251,0
+Chopera;Entire home/apt;4;1,0;21;80,0;139,0;240,0
+Chopera;Entire home/apt;4;2,0;12;98,0;170,0;293,0
+Chopera;Entire home/apt;5;2,0;6;115,0;201,0;346,0
+Chopera;Private room;1;1,0;11;47,0;81,0;140,0
+Chopera;Private room;2;1,0;19;56,0;97,0;167,0
+Ciudad Jardín;Entire home/apt;2;0,0;6;61,0;107,0;184,0
+Ciudad Jardín;Entire home/apt;2;1,0;22;68,0;117,0;203,0
+Ciudad Jardín;Entire home/apt;4;1,0;10;106,0;185,0;318,0
+Ciudad Jardín;Entire home/apt;4;2,0;8;92,0;160,0;276,0
+Ciudad Jardín;Entire home/apt;6;3,0;5;146,0;255,0;439,0
+Ciudad Jardín;Private room;1;1,0;6;41,0;71,0;123,0
+Ciudad Jardín;Private room;2;1,0;7;56,0;98,0;169,0
+Ciudad Universitaria;Entire home/apt;4;1,0;9;90,0;156,0;270,0
+Ciudad Universitaria;Private room;1;1,0;9;30,0;53,0;91,0
+Ciudad Universitaria;Private room;2;1,0;17;38,0;66,0;115,0
+Colina;Entire home/apt;4;1,0;5;81,0;141,0;243,0
+Comillas;Entire home/apt;2;1,0;18;67,0;117,0;201,0
+Comillas;Entire home/apt;4;1,0;9;85,0;148,0;256,0
+Comillas;Entire home/apt;4;2,0;9;93,0;162,0;279,0
+Comillas;Entire home/apt;5;3,0;5;115,0;200,0;346,0
+Comillas;Entire home/apt;6;2,0;19;113,0;197,0;339,0
+Comillas;Private room;1;1,0;13;26,0;45,0;77,0
+Comillas;Private room;2;1,0;10;41,0;71,0;122,0
+Concepción;Entire home/apt;2;1,0;5;79,0;137,0;237,0
+Concepción;Entire home/apt;4;1,0;12;83,0;145,0;250,0
+Concepción;Entire home/apt;4;2,0;10;83,0;144,0;248,0
+Concepción;Private room;1;1,0;16;34,0;59,0;101,0
+Concepción;Private room;2;1,0;17;59,0;103,0;178,0
+Corralejos;Private room;2;1,0;5;34,0;60,0;103,0
+Cortes;Entire home/apt;2;0,0;45;59,0;103,0;178,0
+Cortes;Entire home/apt;2;1,0;146;90,0;156,0;269,0
+Cortes;Entire home/apt;3;0,0;6;82,0;143,0;246,0
+Cortes;Entire home/apt;3;1,0;56;92,0;159,0;275,0
+Cortes;Entire home/apt;3;2,0;16;97,0;169,0;291,0
+Cortes;Entire home/apt;4;0,0;12;109,0;189,0;327,0
+Cortes;Entire home/apt;4;1,0;110;108,0;188,0;324,0
+Cortes;Entire home/apt;4;2,0;95;140,0;243,0;420,0
+Cortes;Entire home/apt;5;1,0;8;108,0;188,0;325,0
+Cortes;Entire home/apt;5;2,0;26;137,0;238,0;411,0
+Cortes;Entire home/apt;5;3,0;11;162,0;282,0;486,0
+Cortes;Entire home/apt;6;2,0;55;145,0;253,0;436,0
+Cortes;Entire home/apt;6;3,0;35;249,0;432,0;746,0
+Cortes;Entire home/apt;8;3,0;11;187,0;325,0;561,0
+Cortes;Entire home/apt;8;4,0;8;197,0;342,0;590,0
+Cortes;Entire home/apt;9;4,0;7;335,0;583,0;1006,0
+Cortes;Private room;1;1,0;44;54,0;94,0;163,0
+Cortes;Private room;2;1,0;118;119,0;206,0;356,0
+Cortes;Private room;3;1,0;14;119,0;206,0;356,0
+Costillares;Entire home/apt;2;0,0;5;71,0;123,0;212,0
+Costillares;Entire home/apt;3;0,0;5;79,0;138,0;238,0
+Cuatro Caminos;Entire home/apt;2;0,0;16;71,0;124,0;213,0
+Cuatro Caminos;Entire home/apt;2;1,0;66;65,0;113,0;195,0
+Cuatro Caminos;Entire home/apt;3;1,0;19;71,0;123,0;213,0
+Cuatro Caminos;Entire home/apt;3;2,0;7;73,0;127,0;219,0
+Cuatro Caminos;Entire home/apt;4;1,0;59;77,0;134,0;232,0
+Cuatro Caminos;Entire home/apt;4;2,0;27;119,0;206,0;356,0
+Cuatro Caminos;Entire home/apt;5;2,0;7;116,0;201,0;347,0
+Cuatro Caminos;Entire home/apt;5;3,0;5;107,0;187,0;322,0
+Cuatro Caminos;Entire home/apt;6;2,0;16;120,0;209,0;361,0
+Cuatro Caminos;Entire home/apt;6;3,0;5;117,0;204,0;353,0
+Cuatro Caminos;Private room;1;1,0;29;32,0;56,0;96,0
+Cuatro Caminos;Private room;2;1,0;46;67,0;116,0;200,0
+Cuatro Caminos;Shared room;1;0,0;16;15,0;25,0;44,0
+Cuatro Caminos;Shared room;1;1,0;40;15,0;25,0;44,0
+Cármenes;Private room;1;1,0;11;29,0;50,0;86,0
+Cármenes;Private room;2;1,0;8;27,0;46,0;80,0
+Delicias;Entire home/apt;2;1,0;14;81,0;141,0;243,0
+Delicias;Entire home/apt;3;2,0;5;83,0;145,0;250,0
+Delicias;Entire home/apt;4;1,0;10;99,0;173,0;298,0
+Delicias;Entire home/apt;4;2,0;16;93,0;162,0;280,0
+Delicias;Private room;1;1,0;19;24,0;42,0;73,0
+Delicias;Private room;2;1,0;27;47,0;82,0;141,0
+El Plantío;Private room;4;1,0;8;55,0;96,0;166,0
+El Viso;Entire home/apt;2;1,0;10;84,0;146,0;252,0
+El Viso;Entire home/apt;4;1,0;7;96,0;167,0;287,0
+El Viso;Entire home/apt;4;2,0;12;158,0;275,0;474,0
+El Viso;Private room;1;1,0;17;20,0;35,0;60,0
+El Viso;Private room;2;1,0;7;59,0;102,0;176,0
+Embajadores;Entire home/apt;1;1,0;14;53,0;92,0;159,0
+Embajadores;Entire home/apt;2;0,0;80;60,0;104,0;180,0
+Embajadores;Entire home/apt;2;1,0;403;72,0;125,0;216,0
+Embajadores;Entire home/apt;2;2,0;8;72,0;126,0;217,0
+Embajadores;Entire home/apt;3;0,0;25;89,0;155,0;268,0
+Embajadores;Entire home/apt;3;1,0;135;99,0;172,0;297,0
+Embajadores;Entire home/apt;3;2,0;49;93,0;161,0;278,0
+Embajadores;Entire home/apt;4;0,0;36;85,0;148,0;255,0
+Embajadores;Entire home/apt;4;1,0;194;97,0;168,0;290,0
+Embajadores;Entire home/apt;4;2,0;191;131,0;229,0;394,0
+Embajadores;Entire home/apt;4;3,0;5;125,0;217,0;375,0
+Embajadores;Entire home/apt;5;1,0;16;94,0;163,0;282,0
+Embajadores;Entire home/apt;5;2,0;56;138,0;239,0;413,0
+Embajadores;Entire home/apt;5;3,0;23;135,0;234,0;404,0
+Embajadores;Entire home/apt;6;1,0;6;104,0;180,0;311,0
+Embajadores;Entire home/apt;6;2,0;81;104,0;180,0;311,0
+Embajadores;Entire home/apt;6;3,0;67;124,0;215,0;371,0
+Embajadores;Entire home/apt;7;3,0;15;193,0;335,0;578,0
+Embajadores;Entire home/apt;8;2,0;8;157,0;274,0;472,0
+Embajadores;Entire home/apt;8;3,0;24;205,0;357,0;615,0
+Embajadores;Entire home/apt;8;4,0;12;269,0;468,0;807,0
+Embajadores;Entire home/apt;10;4,0;13;273,0;475,0;820,0
+Embajadores;Entire home/apt;12;3,0;6;296,0;515,0;889,0
+Embajadores;Private room;1;1,0;83;46,0;79,0;137,0
+Embajadores;Private room;2;1,0;215;58,0;102,0;175,0
+Embajadores;Private room;3;1,0;17;68,0;118,0;204,0
+Embajadores;Private room;4;1,0;23;93,0;162,0;279,0
+Embajadores;Shared room;1;1,0;13;19,0;34,0;58,0
+Entrevías;Entire home/apt;2;1,0;5;65,0;114,0;196,0
+Entrevías;Entire home/apt;4;1,0;5;79,0;138,0;237,0
+Entrevías;Private room;1;1,0;13;23,0;40,0;69,0
+Entrevías;Private room;2;1,0;13;37,0;65,0;112,0
+Estrella;Private room;1;1,0;8;25,0;44,0;76,0
+Fontarrón;Private room;1;1,0;15;16,0;28,0;49,0
+Fontarrón;Private room;2;1,0;9;42,0;72,0;125,0
+Fuente del Berro;Entire home/apt;2;1,0;20;87,0;152,0;262,0
+Fuente del Berro;Entire home/apt;3;1,0;6;93,0;162,0;279,0
+Fuente del Berro;Entire home/apt;3;2,0;6;94,0;164,0;283,0
+Fuente del Berro;Entire home/apt;4;1,0;29;95,0;165,0;285,0
+Fuente del Berro;Entire home/apt;4;2,0;15;97,0;169,0;291,0
+Fuente del Berro;Entire home/apt;6;3,0;6;209,0;363,0;627,0
+Fuente del Berro;Private room;1;1,0;7;39,0;68,0;118,0
+Fuente del Berro;Private room;2;1,0;8;40,0;70,0;121,0
+Gaztambide;Entire home/apt;1;1,0;6;36,0;62,0;107,0
+Gaztambide;Entire home/apt;2;1,0;21;70,0;122,0;210,0
+Gaztambide;Entire home/apt;3;1,0;8;76,0;133,0;229,0
+Gaztambide;Entire home/apt;4;1,0;12;77,0;134,0;231,0
+Gaztambide;Entire home/apt;4;2,0;21;145,0;252,0;435,0
+Gaztambide;Entire home/apt;5;2,0;5;137,0;238,0;410,0
+Gaztambide;Entire home/apt;6;3,0;5;149,0;260,0;448,0
+Gaztambide;Private room;1;1,0;44;24,0;42,0;73,0
+Gaztambide;Private room;2;1,0;32;100,0;174,0;301,0
+Goya;Entire home/apt;2;0,0;6;82,0;142,0;245,0
+Goya;Entire home/apt;2;1,0;47;76,0;133,0;229,0
+Goya;Entire home/apt;3;1,0;20;95,0;165,0;285,0
+Goya;Entire home/apt;3;2,0;10;99,0;172,0;296,0
+Goya;Entire home/apt;4;1,0;14;91,0;158,0;273,0
+Goya;Entire home/apt;4;2,0;61;130,0;227,0;391,0
+Goya;Entire home/apt;5;3,0;9;146,0;253,0;437,0
+Goya;Entire home/apt;6;2,0;14;168,0;292,0;504,0
+Goya;Entire home/apt;6;3,0;39;200,0;347,0;599,0
+Goya;Entire home/apt;7;4,0;5;220,0;383,0;661,0
+Goya;Entire home/apt;8;4,0;5;213,0;371,0;640,0
+Goya;Private room;1;1,0;21;31,0;54,0;93,0
+Goya;Private room;2;1,0;13;51,0;89,0;154,0
+Guindalera;Entire home/apt;2;0,0;14;79,0;138,0;237,0
+Guindalera;Entire home/apt;2;1,0;70;75,0;131,0;226,0
+Guindalera;Entire home/apt;3;1,0;16;79,0;137,0;236,0
+Guindalera;Entire home/apt;3;2,0;13;79,0;138,0;238,0
+Guindalera;Entire home/apt;4;0,0;22;120,0;208,0;359,0
+Guindalera;Entire home/apt;4;1,0;37;118,0;205,0;354,0
+Guindalera;Entire home/apt;4;2,0;33;178,0;310,0;535,0
+Guindalera;Entire home/apt;5;2,0;5;180,0;313,0;540,0
+Guindalera;Entire home/apt;6;2,0;18;166,0;289,0;499,0
+Guindalera;Entire home/apt;6;3,0;13;158,0;275,0;475,0
+Guindalera;Private room;1;1,0;29;24,0;41,0;71,0
+Guindalera;Private room;2;1,0;17;82,0;143,0;247,0
+Guindalera;Private room;3;1,0;5;82,0;142,0;246,0
+Guindalera;Shared room;1;0,0;10;52,0;90,0;155,0
+Hellín;Private room;2;1,0;5;37,0;65,0;112,0
+Hispanoamérica;Entire home/apt;2;1,0;16;70,0;122,0;211,0
+Hispanoamérica;Entire home/apt;3;1,0;6;76,0;131,0;227,0
+Hispanoamérica;Entire home/apt;4;1,0;19;82,0;143,0;247,0
+Hispanoamérica;Entire home/apt;4;2,0;16;134,0;232,0;401,0
+Hispanoamérica;Entire home/apt;6;3,0;7;112,0;195,0;336,0
+Hispanoamérica;Private room;1;1,0;8;31,0;55,0;94,0
+Hispanoamérica;Private room;2;1,0;39;46,0;80,0;137,0
+Ibiza;Entire home/apt;2;0,0;5;88,0;152,0;263,0
+Ibiza;Entire home/apt;2;1,0;36;85,0;147,0;254,0
+Ibiza;Entire home/apt;3;2,0;17;92,0;160,0;276,0
+Ibiza;Entire home/apt;4;1,0;11;92,0;159,0;275,0
+Ibiza;Entire home/apt;4;2,0;29;171,0;297,0;513,0
+Ibiza;Entire home/apt;5;2,0;6;167,0;290,0;500,0
+Ibiza;Entire home/apt;6;2,0;5;191,0;333,0;574,0
+Ibiza;Entire home/apt;6;3,0;15;204,0;355,0;612,0
+Ibiza;Private room;1;1,0;28;31,0;54,0;93,0
+Ibiza;Private room;1;5,0;6;31,0;54,0;94,0
+Ibiza;Private room;2;1,0;9;51,0;88,0;152,0
+Imperial;Entire home/apt;2;1,0;26;74,0;128,0;221,0
+Imperial;Entire home/apt;3;1,0;10;83,0;144,0;248,0
+Imperial;Entire home/apt;4;1,0;19;116,0;202,0;348,0
+Imperial;Entire home/apt;4;2,0;19;104,0;181,0;312,0
+Imperial;Entire home/apt;5;2,0;5;108,0;187,0;323,0
+Imperial;Private room;1;1,0;11;36,0;63,0;109,0
+Imperial;Private room;2;1,0;9;42,0;73,0;125,0
+Jerónimos;Entire home/apt;2;1,0;9;85,0;148,0;255,0
+Jerónimos;Entire home/apt;4;2,0;10;138,0;240,0;414,0
+Jerónimos;Entire home/apt;6;3,0;7;212,0;369,0;637,0
+Jerónimos;Private room;1;1,0;5;33,0;57,0;98,0
+Jerónimos;Private room;2;1,0;14;104,0;181,0;312,0
+Justicia;Entire home/apt;2;0,0;37;65,0;112,0;194,0
+Justicia;Entire home/apt;2;1,0;208;86,0;150,0;258,0
+Justicia;Entire home/apt;3;0,0;11;81,0;141,0;243,0
+Justicia;Entire home/apt;3;1,0;67;88,0;153,0;263,0
+Justicia;Entire home/apt;3;2,0;13;73,0;128,0;220,0
+Justicia;Entire home/apt;4;0,0;13;105,0;183,0;316,0
+Justicia;Entire home/apt;4;1,0;115;108,0;188,0;325,0
+Justicia;Entire home/apt;4;2,0;113;142,0;246,0;425,0
+Justicia;Entire home/apt;5;2,0;13;142,0;247,0;426,0
+Justicia;Entire home/apt;5;3,0;12;156,0;272,0;469,0
+Justicia;Entire home/apt;6;1,0;6;167,0;290,0;501,0
+Justicia;Entire home/apt;6;2,0;55;182,0;316,0;545,0
+Justicia;Entire home/apt;6;3,0;30;173,0;302,0;520,0
+Justicia;Entire home/apt;8;3,0;7;233,0;406,0;700,0
+Justicia;Entire home/apt;8;4,0;6;226,0;393,0;677,0
+Justicia;Private room;1;1,0;56;37,0;65,0;112,0
+Justicia;Private room;2;1,0;103;82,0;142,0;245,0
+Justicia;Private room;3;1,0;10;90,0;157,0;271,0
+Justicia;Private room;4;1,0;13;99,0;173,0;298,0
+La Paz;Private room;1;1,0;5;32,0;55,0;95,0
+Legazpi;Entire home/apt;4;1,0;13;82,0;142,0;245,0
+Legazpi;Entire home/apt;4;2,0;5;72,0;125,0;216,0
+Lista;Entire home/apt;2;1,0;24;87,0;151,0;260,0
+Lista;Entire home/apt;3;1,0;10;85,0;148,0;255,0
+Lista;Entire home/apt;4;1,0;9;121,0;211,0;364,0
+Lista;Entire home/apt;4;2,0;34;128,0;222,0;383,0
+Lista;Entire home/apt;5;3,0;9;134,0;232,0;401,0
+Lista;Entire home/apt;6;2,0;13;158,0;274,0;473,0
+Lista;Entire home/apt;6;3,0;14;173,0;302,0;520,0
+Lista;Private room;1;1,0;18;21,0;37,0;64,0
+Lista;Private room;2;1,0;7;63,0;110,0;190,0
+Los Angeles;Private room;1;1,0;11;17,0;29,0;50,0
+Los Angeles;Private room;2;1,0;11;41,0;71,0;122,0
+Los Rosales;Entire home/apt;4;1,0;7;62,0;107,0;185,0
+Los Rosales;Private room;1;1,0;5;27,0;47,0;81,0
+Los Rosales;Private room;2;1,0;5;22,0;39,0;67,0
+Lucero;Entire home/apt;4;1,0;13;62,0;108,0;187,0
+Lucero;Private room;1;1,0;14;37,0;64,0;111,0
+Lucero;Private room;2;1,0;11;30,0;53,0;91,0
+Media Legua;Private room;1;1,0;5;23,0;39,0;68,0
+Media Legua;Private room;2;1,0;7;41,0;72,0;124,0
+Moscardó;Entire home/apt;2;0,0;7;64,0;112,0;193,0
+Moscardó;Entire home/apt;2;1,0;9;55,0;96,0;165,0
+Moscardó;Entire home/apt;4;1,0;9;77,0;134,0;231,0
+Moscardó;Entire home/apt;4;2,0;8;86,0;150,0;259,0
+Moscardó;Entire home/apt;6;2,0;9;93,0;162,0;279,0
+Moscardó;Entire home/apt;6;3,0;10;131,0;228,0;393,0
+Moscardó;Private room;1;1,0;13;30,0;52,0;90,0
+Moscardó;Private room;2;1,0;14;35,0;61,0;105,0
+Niño Jesús;Entire home/apt;2;1,0;5;96,0;167,0;289,0
+Niño Jesús;Entire home/apt;4;1,0;8;90,0;157,0;271,0
+Niño Jesús;Private room;2;1,0;10;56,0;97,0;168,0
+Nueva España;Entire home/apt;2;1,0;30;77,0;134,0;231,0
+Nueva España;Entire home/apt;3;1,0;6;87,0;152,0;262,0
+Nueva España;Entire home/apt;4;0,0;5;98,0;170,0;294,0
+Nueva España;Entire home/apt;4;1,0;8;107,0;187,0;323,0
+Nueva España;Entire home/apt;4;2,0;26;99,0;173,0;298,0
+Nueva España;Entire home/apt;6;2,0;11;154,0;268,0;463,0
+Nueva España;Entire home/apt;6;3,0;10;131,0;228,0;394,0
+Nueva España;Private room;1;1,0;6;18,0;31,0;54,0
+Numancia;Entire home/apt;2;0,0;6;54,0;94,0;162,0
+Numancia;Entire home/apt;2;1,0;35;57,0;99,0;170,0
+Numancia;Entire home/apt;3;1,0;10;77,0;134,0;232,0
+Numancia;Entire home/apt;4;1,0;37;80,0;139,0;239,0
+Numancia;Entire home/apt;4;2,0;14;91,0;159,0;274,0
+Numancia;Entire home/apt;6;2,0;5;126,0;220,0;379,0
+Numancia;Private room;1;1,0;14;25,0;44,0;75,0
+Numancia;Private room;2;1,0;29;37,0;64,0;111,0
+Opañel;Entire home/apt;2;1,0;14;82,0;143,0;246,0
+Opañel;Entire home/apt;4;1,0;28;93,0;161,0;278,0
+Opañel;Entire home/apt;4;2,0;6;90,0;156,0;270,0
+Opañel;Entire home/apt;4;3,0;5;110,0;191,0;329,0
+Opañel;Entire home/apt;5;2,0;7;90,0;157,0;270,0
+Opañel;Entire home/apt;6;2,0;8;78,0;136,0;235,0
+Opañel;Private room;1;1,0;13;31,0;54,0;93,0
+Opañel;Private room;2;1,0;25;36,0;63,0;108,0
+Orcasitas;Private room;2;1,0;7;34,0;59,0;102,0
+Orcasur;Entire home/apt;2;1,0;18;90,0;156,0;269,0
+Orcasur;Entire home/apt;4;1,0;13;81,0;142,0;245,0
+Orcasur;Entire home/apt;4;2,0;7;87,0;151,0;261,0
+Orcasur;Private room;2;1,0;5;37,0;65,0;111,0
+Pacífico;Entire home/apt;2;1,0;22;101,0;175,0;302,0
+Pacífico;Entire home/apt;3;1,0;5;95,0;165,0;285,0
+Pacífico;Entire home/apt;3;2,0;8;104,0;180,0;311,0
+Pacífico;Entire home/apt;4;1,0;24;82,0;142,0;245,0
+Pacífico;Entire home/apt;4;2,0;32;111,0;193,0;333,0
+Pacífico;Entire home/apt;6;2,0;5;184,0;319,0;551,0
+Pacífico;Entire home/apt;6;3,0;8;142,0;247,0;427,0
+Pacífico;Private room;1;1,0;38;26,0;45,0;78,0
+Pacífico;Private room;2;1,0;39;64,0;111,0;191,0
+Palacio;Entire home/apt;2;0,0;43;97,0;169,0;292,0
+Palacio;Entire home/apt;2;1,0;257;103,0;178,0;308,0
+Palacio;Entire home/apt;3;0,0;13;118,0;206,0;355,0
+Palacio;Entire home/apt;3;1,0;81;100,0;174,0;301,0
+Palacio;Entire home/apt;3;2,0;31;106,0;185,0;319,0
+Palacio;Entire home/apt;4;0,0;21;128,0;223,0;385,0
+Palacio;Entire home/apt;4;1,0;253;135,0;235,0;406,0
+Palacio;Entire home/apt;4;2,0;164;158,0;275,0;475,0
+Palacio;Entire home/apt;5;2,0;43;154,0;267,0;461,0
+Palacio;Entire home/apt;5;3,0;5;166,0;288,0;497,0
+Palacio;Entire home/apt;6;1,0;7;192,0;333,0;575,0
+Palacio;Entire home/apt;6;2,0;79;204,0;355,0;612,0
+Palacio;Entire home/apt;6;3,0;43;199,0;345,0;596,0
+Palacio;Entire home/apt;7;2,0;7;210,0;365,0;629,0
+Palacio;Entire home/apt;7;3,0;6;206,0;359,0;619,0
+Palacio;Entire home/apt;8;3,0;12;211,0;367,0;634,0
+Palacio;Entire home/apt;8;4,0;5;245,0;426,0;736,0
+Palacio;Entire home/apt;10;4,0;13;279,0;486,0;838,0
+Palacio;Private room;1;1,0;55;26,0;45,0;77,0
+Palacio;Private room;2;1,0;144;66,0;114,0;198,0
+Palacio;Private room;3;1,0;19;63,0;110,0;190,0
+Palacio;Private room;4;1,0;21;96,0;166,0;287,0
+Palacio;Private room;8;1,0;7;254,0;442,0;763,0
+Palomeras Bajas;Entire home/apt;4;1,0;7;70,0;121,0;209,0
+Palomeras Bajas;Private room;1;1,0;6;24,0;42,0;72,0
+Palomeras Bajas;Private room;2;1,0;11;39,0;68,0;117,0
+Palomeras Sureste;Private room;2;1,0;17;25,0;44,0;75,0
+Palos de Moguer;Entire home/apt;2;0,0;12;81,0;141,0;243,0
+Palos de Moguer;Entire home/apt;2;1,0;55;59,0;103,0;178,0
+Palos de Moguer;Entire home/apt;3;0,0;7;91,0;158,0;272,0
+Palos de Moguer;Entire home/apt;3;1,0;25;78,0;136,0;234,0
+Palos de Moguer;Entire home/apt;3;2,0;10;90,0;156,0;270,0
+Palos de Moguer;Entire home/apt;4;1,0;34;129,0;224,0;387,0
+Palos de Moguer;Entire home/apt;4;2,0;23;128,0;223,0;385,0
+Palos de Moguer;Entire home/apt;5;2,0;6;122,0;213,0;367,0
+Palos de Moguer;Entire home/apt;6;2,0;19;159,0;277,0;478,0
+Palos de Moguer;Entire home/apt;6;3,0;13;165,0;287,0;496,0
+Palos de Moguer;Private room;1;1,0;30;25,0;43,0;75,0
+Palos de Moguer;Private room;2;1,0;43;54,0;94,0;162,0
+Peñagrande;Entire home/apt;4;2,0;5;136,0;236,0;407,0
+Peñagrande;Private room;1;1,0;9;27,0;48,0;82,0
+Peñagrande;Private room;2;1,0;17;48,0;83,0;143,0
+Pilar;Entire home/apt;2;1,0;9;74,0;129,0;223,0
+Pilar;Entire home/apt;4;1,0;7;68,0;118,0;203,0
+Pilar;Private room;1;1,0;8;30,0;52,0;90,0
+Pilar;Private room;2;1,0;9;52,0;90,0;155,0
+Pinar del Rey;Entire home/apt;2;1,0;14;61,0;106,0;183,0
+Pinar del Rey;Entire home/apt;3;1,0;8;68,0;117,0;203,0
+Pinar del Rey;Entire home/apt;3;2,0;9;64,0;112,0;193,0
+Pinar del Rey;Entire home/apt;4;1,0;21;72,0;125,0;215,0
+Pinar del Rey;Entire home/apt;4;2,0;5;100,0;173,0;299,0
+Pinar del Rey;Entire home/apt;6;3,0;6;157,0;273,0;471,0
+Pinar del Rey;Private room;1;1,0;9;32,0;55,0;96,0
+Pinar del Rey;Private room;2;1,0;32;59,0;103,0;177,0
+Portazgo;Private room;1;1,0;10;21,0;37,0;63,0
+Portazgo;Private room;2;1,0;6;36,0;62,0;107,0
+Pradolongo;Entire home/apt;3;0,0;5;54,0;93,0;161,0
+Pradolongo;Entire home/apt;4;2,0;7;124,0;215,0;371,0
+Pradolongo;Private room;1;1,0;6;34,0;58,0;101,0
+Pradolongo;Private room;2;1,0;10;24,0;42,0;72,0
+Prosperidad;Entire home/apt;2;1,0;41;94,0;164,0;282,0
+Prosperidad;Entire home/apt;3;1,0;23;95,0;164,0;284,0
+Prosperidad;Entire home/apt;3;2,0;6;92,0;160,0;277,0
+Prosperidad;Entire home/apt;4;1,0;35;85,0;148,0;256,0
+Prosperidad;Entire home/apt;4;2,0;22;131,0;227,0;392,0
+Prosperidad;Entire home/apt;6;3,0;6;118,0;205,0;353,0
+Prosperidad;Private room;1;1,0;16;36,0;62,0;107,0
+Prosperidad;Private room;2;1,0;11;97,0;168,0;290,0
+Pueblo Nuevo;Entire home/apt;2;1,0;11;80,0;140,0;241,0
+Pueblo Nuevo;Entire home/apt;3;0,0;6;79,0;137,0;237,0
+Pueblo Nuevo;Entire home/apt;3;1,0;8;80,0;139,0;239,0
+Pueblo Nuevo;Entire home/apt;4;1,0;42;69,0;120,0;207,0
+Pueblo Nuevo;Entire home/apt;4;2,0;17;82,0;143,0;247,0
+Pueblo Nuevo;Entire home/apt;5;2,0;6;94,0;164,0;283,0
+Pueblo Nuevo;Entire home/apt;6;2,0;7;93,0;161,0;278,0
+Pueblo Nuevo;Entire home/apt;6;3,0;5;151,0;262,0;452,0
+Pueblo Nuevo;Private room;1;1,0;23;27,0;47,0;82,0
+Pueblo Nuevo;Private room;2;1,0;32;71,0;123,0;212,0
+Puerta Bonita;Entire home/apt;2;1,0;13;56,0;98,0;168,0
+Puerta Bonita;Entire home/apt;4;1,0;7;72,0;124,0;215,0
+Puerta Bonita;Private room;1;1,0;9;34,0;58,0;101,0
+Puerta Bonita;Private room;2;1,0;7;25,0;43,0;75,0
+Puerta del Angel;Entire home/apt;2;1,0;30;81,0;141,0;243,0
+Puerta del Angel;Entire home/apt;3;1,0;8;77,0;133,0;230,0
+Puerta del Angel;Entire home/apt;3;2,0;6;76,0;133,0;229,0
+Puerta del Angel;Entire home/apt;4;1,0;19;72,0;126,0;217,0
+Puerta del Angel;Entire home/apt;4;2,0;20;77,0;134,0;231,0
+Puerta del Angel;Entire home/apt;5;2,0;8;79,0;137,0;236,0
+Puerta del Angel;Entire home/apt;6;2,0;7;98,0;170,0;294,0
+Puerta del Angel;Private room;1;1,0;31;28,0;49,0;85,0
+Puerta del Angel;Private room;2;1,0;22;41,0;71,0;123,0
+Quintana;Entire home/apt;4;0,0;8;88,0;154,0;265,0
+Quintana;Entire home/apt;4;1,0;18;85,0;148,0;255,0
+Quintana;Entire home/apt;4;2,0;7;108,0;188,0;324,0
+Quintana;Private room;1;1,0;14;31,0;54,0;94,0
+Quintana;Private room;2;1,0;13;47,0;82,0;142,0
+Recoletos;Entire home/apt;2;1,0;61;123,0;214,0;369,0
+Recoletos;Entire home/apt;3;0,0;7;123,0;213,0;368,0
+Recoletos;Entire home/apt;3;1,0;22;129,0;224,0;387,0
+Recoletos;Entire home/apt;3;2,0;11;133,0;231,0;398,0
+Recoletos;Entire home/apt;4;1,0;16;112,0;194,0;335,0
+Recoletos;Entire home/apt;4;2,0;47;172,0;299,0;516,0
+Recoletos;Entire home/apt;5;2,0;8;199,0;345,0;596,0
+Recoletos;Entire home/apt;6;3,0;31;192,0;334,0;576,0
+Recoletos;Private room;1;1,0;12;18,0;32,0;55,0
+Recoletos;Private room;2;1,0;16;188,0;328,0;565,0
+Rejas;Entire home/apt;2;1,0;13;67,0;116,0;200,0
+Rejas;Entire home/apt;3;1,0;11;72,0;125,0;215,0
+Rejas;Entire home/apt;4;1,0;76;65,0;113,0;195,0
+Rejas;Entire home/apt;5;2,0;6;97,0;169,0;291,0
+Rejas;Entire home/apt;6;2,0;5;91,0;159,0;274,0
+Rejas;Private room;1;1,0;5;39,0;67,0;116,0
+Rejas;Private room;2;1,0;9;59,0;103,0;178,0
+Rios Rosas;Entire home/apt;2;1,0;22;85,0;148,0;256,0
+Rios Rosas;Entire home/apt;3;1,0;8;89,0;154,0;266,0
+Rios Rosas;Entire home/apt;3;2,0;9;82,0;143,0;247,0
+Rios Rosas;Entire home/apt;4;1,0;11;95,0;165,0;284,0
+Rios Rosas;Entire home/apt;4;2,0;23;148,0;257,0;444,0
+Rios Rosas;Entire home/apt;5;3,0;5;160,0;278,0;479,0
+Rios Rosas;Entire home/apt;6;2,0;6;125,0;217,0;375,0
+Rios Rosas;Entire home/apt;6;3,0;12;115,0;201,0;347,0
+Rios Rosas;Private room;1;1,0;31;27,0;47,0;81,0
+Rios Rosas;Private room;2;1,0;23;94,0;164,0;283,0
+Rosas;Entire home/apt;3;0,0;5;67,0;116,0;201,0
+Rosas;Private room;1;1,0;9;29,0;50,0;86,0
+Rosas;Private room;2;1,0;7;37,0;64,0;111,0
+Salvador;Private room;2;1,0;9;48,0;84,0;144,0
+San Andrés;Entire home/apt;2;0,0;13;56,0;97,0;167,0
+San Andrés;Entire home/apt;2;1,0;10;58,0;101,0;175,0
+San Andrés;Entire home/apt;3;1,0;6;60,0;104,0;180,0
+San Andrés;Entire home/apt;4;1,0;25;57,0;99,0;172,0
+San Andrés;Private room;1;1,0;5;24,0;42,0;72,0
+San Andrés;Private room;2;1,0;11;54,0;94,0;161,0
+San Cristobal;Private room;2;1,0;6;38,0;65,0;113,0
+San Diego;Entire home/apt;2;0,0;10;58,0;100,0;173,0
+San Diego;Entire home/apt;2;1,0;32;55,0;96,0;165,0
+San Diego;Entire home/apt;3;1,0;27;72,0;125,0;215,0
+San Diego;Entire home/apt;3;2,0;5;76,0;133,0;229,0
+San Diego;Entire home/apt;4;1,0;32;93,0;162,0;280,0
+San Diego;Entire home/apt;4;2,0;23;91,0;158,0;273,0
+San Diego;Entire home/apt;6;2,0;14;113,0;196,0;339,0
+San Diego;Entire home/apt;8;3,0;5;136,0;237,0;409,0
+San Diego;Private room;1;1,0;8;22,0;38,0;66,0
+San Diego;Private room;2;1,0;26;37,0;64,0;111,0
+San Fermín;Private room;2;1,0;17;36,0;63,0;109,0
+San Isidro;Entire home/apt;2;0,0;7;68,0;118,0;204,0
+San Isidro;Entire home/apt;2;1,0;23;68,0;118,0;204,0
+San Isidro;Entire home/apt;3;1,0;9;64,0;111,0;192,0
+San Isidro;Entire home/apt;4;1,0;13;76,0;132,0;228,0
+San Isidro;Entire home/apt;4;2,0;20;84,0;146,0;252,0
+San Isidro;Entire home/apt;5;2,0;5;95,0;165,0;286,0
+San Isidro;Entire home/apt;6;2,0;8;98,0;171,0;295,0
+San Isidro;Private room;1;1,0;12;24,0;42,0;73,0
+San Isidro;Private room;2;1,0;26;35,0;61,0;105,0
+San Juan Bautista;Entire home/apt;4;1,0;6;83,0;145,0;251,0
+San Pascual;Entire home/apt;4;1,0;5;90,0;156,0;270,0
+San Pascual;Private room;1;1,0;7;30,0;51,0;89,0
+Simancas;Entire home/apt;2;1,0;7;64,0;112,0;193,0
+Simancas;Entire home/apt;4;0,0;5;104,0;181,0;312,0
+Simancas;Entire home/apt;4;1,0;13;101,0;176,0;303,0
+Simancas;Private room;1;1,0;6;23,0;39,0;68,0
+Simancas;Private room;2;1,0;16;50,0;87,0;151,0
+Sol;Entire home/apt;2;0,0;51;77,0;134,0;231,0
+Sol;Entire home/apt;2;1,0;147;89,0;155,0;268,0
+Sol;Entire home/apt;3;0,0;15;107,0;186,0;320,0
+Sol;Entire home/apt;3;1,0;57;98,0;171,0;295,0
+Sol;Entire home/apt;3;2,0;14;87,0;151,0;261,0
+Sol;Entire home/apt;4;0,0;15;103,0;180,0;310,0
+Sol;Entire home/apt;4;1,0;197;116,0;201,0;347,0
+Sol;Entire home/apt;4;2,0;98;181,0;315,0;544,0
+Sol;Entire home/apt;5;1,0;7;129,0;225,0;388,0
+Sol;Entire home/apt;5;2,0;31;147,0;255,0;440,0
+Sol;Entire home/apt;5;3,0;7;152,0;264,0;456,0
+Sol;Entire home/apt;6;1,0;5;137,0;238,0;411,0
+Sol;Entire home/apt;6;2,0;74;166,0;289,0;499,0
+Sol;Entire home/apt;6;3,0;23;243,0;422,0;728,0
+Sol;Entire home/apt;6;4,0;5;253,0;439,0;758,0
+Sol;Entire home/apt;7;3,0;9;228,0;397,0;685,0
+Sol;Entire home/apt;8;3,0;18;235,0;408,0;704,0
+Sol;Entire home/apt;8;4,0;14;287,0;500,0;862,0
+Sol;Entire home/apt;10;4,0;6;254,0;441,0;761,0
+Sol;Private room;1;1,0;59;32,0;55,0;95,0
+Sol;Private room;2;1,0;140;85,0;147,0;254,0
+Sol;Private room;3;1,0;14;96,0;166,0;287,0
+Sol;Private room;4;1,0;12;121,0;211,0;364,0
+Sol;Private room;8;1,0;9;183,0;318,0;548,0
+Timón;Entire home/apt;4;2,0;6;99,0;173,0;298,0
+Timón;Private room;1;1,0;5;35,0;61,0;105,0
+Timón;Private room;2;1,0;12;32,0;56,0;96,0
+Trafalgar;Entire home/apt;2;0,0;7;94,0;163,0;281,0
+Trafalgar;Entire home/apt;2;1,0;66;97,0;169,0;292,0
+Trafalgar;Entire home/apt;3;1,0;15;105,0;183,0;315,0
+Trafalgar;Entire home/apt;3;2,0;16;119,0;207,0;357,0
+Trafalgar;Entire home/apt;4;1,0;29;145,0;252,0;435,0
+Trafalgar;Entire home/apt;4;2,0;49;102,0;178,0;307,0
+Trafalgar;Entire home/apt;5;3,0;7;124,0;216,0;373,0
+Trafalgar;Entire home/apt;6;2,0;25;150,0;262,0;451,0
+Trafalgar;Entire home/apt;6;3,0;19;137,0;239,0;412,0
+Trafalgar;Private room;1;1,0;35;25,0;43,0;74,0
+Trafalgar;Private room;2;1,0;42;53,0;91,0;158,0
+Trafalgar;Private room;3;1,0;7;63,0;109,0;188,0
+Universidad;Entire home/apt;1;1,0;6;35,0;60,0;104,0
+Universidad;Entire home/apt;2;0,0;73;87,0;151,0;261,0
+Universidad;Entire home/apt;2;1,0;344;73,0;128,0;220,0
+Universidad;Entire home/apt;2;2,0;6;75,0;130,0;224,0
+Universidad;Entire home/apt;3;0,0;12;91,0;159,0;274,0
+Universidad;Entire home/apt;3;1,0;114;83,0;144,0;249,0
+Universidad;Entire home/apt;3;2,0;31;83,0;143,0;248,0
+Universidad;Entire home/apt;4;0,0;7;96,0;166,0;287,0
+Universidad;Entire home/apt;4;1,0;170;97,0;169,0;291,0
+Universidad;Entire home/apt;4;2,0;176;146,0;253,0;437,0
+Universidad;Entire home/apt;5;1,0;6;97,0;169,0;291,0
+Universidad;Entire home/apt;5;2,0;35;128,0;223,0;384,0
+Universidad;Entire home/apt;5;3,0;10;144,0;251,0;433,0
+Universidad;Entire home/apt;6;1,0;9;127,0;221,0;381,0
+Universidad;Entire home/apt;6;2,0;67;153,0;265,0;458,0
+Universidad;Entire home/apt;6;3,0;42;194,0;338,0;583,0
+Universidad;Entire home/apt;7;3,0;9;202,0;350,0;605,0
+Universidad;Entire home/apt;7;4,0;7;224,0;390,0;673,0
+Universidad;Entire home/apt;8;3,0;24;237,0;412,0;712,0
+Universidad;Entire home/apt;8;4,0;11;254,0;442,0;762,0
+Universidad;Entire home/apt;12;3,0;6;201,0;349,0;602,0
+Universidad;Private room;1;1,0;80;32,0;56,0;97,0
+Universidad;Private room;2;0,0;6;54,0;94,0;162,0
+Universidad;Private room;2;1,0;172;48,0;83,0;143,0
+Universidad;Private room;3;1,0;39;68,0;118,0;204,0
+Universidad;Private room;4;1,0;8;88,0;153,0;264,0
+Valdeacederas;Entire home/apt;2;0,0;5;51,0;89,0;153,0
+Valdeacederas;Entire home/apt;2;1,0;43;50,0;87,0;149,0
+Valdeacederas;Entire home/apt;3;1,0;7;51,0;90,0;154,0
+Valdeacederas;Entire home/apt;3;2,0;9;49,0;85,0;147,0
+Valdeacederas;Entire home/apt;4;1,0;36;79,0;137,0;237,0
+Valdeacederas;Entire home/apt;4;2,0;8;97,0;169,0;291,0
+Valdeacederas;Entire home/apt;5;3,0;10;89,0;156,0;268,0
+Valdeacederas;Entire home/apt;6;2,0;7;99,0;173,0;298,0
+Valdeacederas;Private room;1;1,0;27;44,0;76,0;131,0
+Valdeacederas;Private room;2;1,0;12;41,0;72,0;124,0
+Valdefuentes;Entire home/apt;2;0,0;8;53,0;92,0;159,0
+Valdefuentes;Entire home/apt;2;1,0;27;58,0;100,0;173,0
+Valdefuentes;Entire home/apt;4;1,0;21;96,0;167,0;289,0
+Valdefuentes;Entire home/apt;4;2,0;11;100,0;174,0;300,0
+Valdefuentes;Private room;1;1,0;7;32,0;56,0;97,0
+Valdefuentes;Private room;2;1,0;20;58,0;101,0;174,0
+Valdefuentes;Private room;4;2,0;5;118,0;206,0;355,0
+Valdezarza;Entire home/apt;2;1,0;9;66,0;115,0;198,0
+Valdezarza;Entire home/apt;4;1,0;15;62,0;108,0;187,0
+Valdezarza;Private room;1;1,0;15;25,0;43,0;74,0
+Valdezarza;Private room;2;1,0;6;73,0;128,0;220,0
+Vallehermoso;Entire home/apt;2;0,0;12;71,0;124,0;213,0
+Vallehermoso;Entire home/apt;2;1,0;12;69,0;119,0;206,0
+Vallehermoso;Entire home/apt;4;1,0;9;97,0;169,0;291,0
+Vallehermoso;Entire home/apt;4;2,0;6;103,0;179,0;309,0
+Vallehermoso;Private room;1;1,0;15;24,0;42,0;72,0
+Valverde;Entire home/apt;2;1,0;10;59,0;103,0;178,0
+Valverde;Entire home/apt;4;1,0;9;82,0;143,0;247,0
+Valverde;Entire home/apt;4;2,0;8;86,0;150,0;259,0
+Valverde;Entire home/apt;6;3,0;5;131,0;228,0;393,0
+Valverde;Private room;1;1,0;12;42,0;74,0;127,0
+Valverde;Private room;2;1,0;21;40,0;69,0;120,0
+Ventas;Entire home/apt;2;0,0;5;85,0;148,0;256,0
+Ventas;Entire home/apt;2;1,0;12;90,0;156,0;270,0
+Ventas;Entire home/apt;3;1,0;9;91,0;159,0;274,0
+Ventas;Entire home/apt;4;1,0;28;91,0;158,0;272,0
+Ventas;Entire home/apt;4;2,0;11;105,0;182,0;314,0
+Ventas;Entire home/apt;6;2,0;10;136,0;237,0;409,0
+Ventas;Entire home/apt;6;3,0;5;164,0;285,0;492,0
+Ventas;Private room;1;1,0;31;30,0;53,0;91,0
+Ventas;Private room;2;1,0;35;50,0;87,0;150,0
+Vinateros;Private room;1;1,0;17;21,0;37,0;64,0
+Vista Alegre;Entire home/apt;2;1,0;9;74,0;129,0;222,0
+Vista Alegre;Entire home/apt;4;1,0;9;78,0;136,0;234,0
+Vista Alegre;Entire home/apt;4;2,0;6;74,0;129,0;222,0
+Vista Alegre;Private room;1;1,0;19;29,0;50,0;86,0
+Vista Alegre;Private room;2;1,0;11;35,0;61,0;104,0
+Zofío;Entire home/apt;2;1,0;5;62,0;108,0;186,0
+Zofío;Private room;1;1,0;6;26,0;46,0;79,0
+Zofío;Private room;2;1,0;10;32,0;55,0;96,0
